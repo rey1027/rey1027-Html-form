@@ -1,0 +1,15 @@
+.title-red {
+    color:red;
+}
+
+.post-width {
+    width: 500px !important;
+}
+
+img {
+    width: 100% !important;
+}
+
+.height-select {
+    height: 30px;
+}
